@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://code.visualstudio.com/assets/favicon.ico" />
         <a href="https://github.com/peizhongli/ninjaya-convert" target="_blank">
@@ -19,11 +19,11 @@
       </div>
     </td>
     <td>
-      【Vscode-extension】实现选中变量对其进行英译中及格式转换。格式支持小驼峰、大驼峰、全大写等。翻译内置的是百度翻译API。
+      【Vscode extension】实现选中变量对其进行英译中及格式转换。格式支持小驼峰、大驼峰、全大写等。翻译内置的是百度翻译API。
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png" />
         <a href="https://github.com/peizhongli/easy-project-cli" target="_blank">
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://www.electronjs.org/zh/assets/img/favicon.ico" />
         <a href="https://github.com/peizhongli/about-accompany" target="_blank">
@@ -49,7 +49,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://cn.vuejs.org/logo.svg" />
         <a href="https://github.com/peizhongli/vue3-dashboard" target="_blank">
@@ -62,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://pt-br.legacy.reactjs.org/favicon-32x32.png" />
         <a href="https://github.com/peizhongli/react18-dashboard" target="_blank">
@@ -75,7 +75,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://www.electronjs.org/zh/assets/img/favicon.ico" />
         <a href="https://github.com/peizhongli/ninja-robot" target="_blank">
@@ -88,7 +88,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://cn.vuejs.org/logo.svg" />
         <a href="https://github.com/peizhongli/simple-robot" target="_blank">
@@ -101,7 +101,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://nodejs.cn/logo.svg" />
         <a href="https://github.com/peizhongli/lesson-management" target="_blank">
@@ -114,7 +114,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />
         <a href="https://github.com/peizhongli/mini-lesson" target="_blank">
@@ -127,7 +127,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://code.visualstudio.com/assets/favicon.ico" />
         <a href="https://github.com/peizhongli/ninjaya-snippets" target="_blank">
@@ -140,7 +140,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://cn.vuejs.org/logo.svg" />
         <a href="https://github.com/peizhongli/cloneForm" target="_blank">
@@ -153,7 +153,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td min-width="200px">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://www.gstatic.cn/devrel-devsite/prod/v66bc13dc55a89e30844725592b2a3875c41b51489328ec81aa9453f6004c6976/chrome/images/favicon.png" />
         <a href="https://github.com/peizhongli/chrome-utils" target="_blank">
