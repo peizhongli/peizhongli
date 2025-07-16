@@ -12,7 +12,7 @@
   <tr>
     <td>
       <a href="https://github.com/peizhongli/ninjaya-convert" target="_blank">
-        <img src="https://badgen.net/badge/icon/ninjaya-convert?icon=visualstudio&label"/>
+        <img src="https://badgen.net/badge/icon/ninjaya-convert?icon=https://code.visualstudio.com/assets/favicon.ico&label"/>
       </a>
     </td>
     <td>
@@ -32,7 +32,7 @@
   <tr>
     <th>
       <a href="https://github.com/peizhongli/about-accompany" target="_blank">
-        <img src="https://badgen.net/badge/icon/about-accompany?icon=typescript&label"/>
+        <img src="https://badgen.net/badge/icon/about-accompany?icon=https://www.electronjs.org/zh/assets/img/favicon.ico&label"/>
       </a>
     </th>
     <td>
@@ -42,7 +42,7 @@
   <tr>
     <th>
       <a href="https://github.com/peizhongli/vue3-dashboard" target="_blank">
-        <img src="https://badgen.net/badge/icon/vue3-dashboard?icon=typescript&label"/>
+        <img src="https://badgen.net/badge/icon/vue3-dashboard?icon=https://cn.vuejs.org/logo.svg&label"/>
       </a>
     </th>
     <td>
@@ -52,7 +52,7 @@
   <tr>
     <th>
       <a href="https://github.com/peizhongli/react18-dashboard" target="_blank">
-        <img src="https://badgen.net/badge/icon/react18-dashboard?icon=typescript&label"/>
+        <img src="https://badgen.net/badge/icon/react18-dashboard?icon=https://cn.vuejs.org/logo.svg&label"/>
       </a>
     </th>
     <td>
@@ -62,11 +62,11 @@
   <tr>
     <th>
       <a href="https://github.com/peizhongli/ninja-robot" target="_blank">
-        <img src="https://badgen.net/badge/icon/ninja-robot?icon=typescript&label"/>
+        <img src="https://badgen.net/badge/icon/ninja-robot?icon=https://www.electronjs.org/zh/assets/img/favicon.ico&label"/>
       </a>
     </th>
     <td>
-      【Electron】调<code>deepSeek Api</code>的问答机器人。支持本地存储聊天记录等功能。
+      【Electron】调<code>deepSeek API</code>的问答机器人。支持本地存储聊天记录等功能。
     </td>
   </tr>
    <tr>
@@ -76,7 +76,7 @@
       </a>
     </th>
     <td>
-      【Vue】调图灵<code>Api的<code>h5</code>问答机器人。
+      【Vue】调图灵<code>API</code>的<code>h5</code>问答机器人。
     </td>
   </tr>
    <tr>
@@ -96,7 +96,7 @@
   <tr>
     <th>
       <a href="https://github.com/peizhongli/ninjaya-snippets" target="_blank">
-        <img src="https://badgen.net/badge/icon/ninjaya-snippets?icon=visualstudio&label"/>
+        <img src="https://badgen.net/badge/icon/ninjaya-snippets?icon=https://code.visualstudio.com/assets/favicon.ico&label"/>
       </a>
     </th>
     <td>
