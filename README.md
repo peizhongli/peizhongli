@@ -38,7 +38,7 @@
   <tr>
     <td width="200">
       <div style="display: flex; align-items: center;">
-        <img width="16" style="margin-right: 4px;" src="https://www.electronjs.org/zh/assets/img/favicon.ico" />
+        <img width="16" style="margin-right: 4px;" src="https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/hx.png" />
         <a href="https://github.com/peizhongli/Mahjong-winning-calculator" target="_blank">
           Mahjong-winning-calculator
         </a>
