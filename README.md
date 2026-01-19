@@ -39,6 +39,19 @@
     <td width="200">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://www.electronjs.org/zh/assets/img/favicon.ico" />
+        <a href="https://github.com/peizhongli/Mahjong-winning-calculator" target="_blank">
+          Mahjong-winning-calculator
+        </a>
+      </div>
+    </td>
+    <td>
+      【Uni-app】一个长春麻将胡牌计分计算器，附带小功能：随机摸东南西北风。
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <div style="display: flex; align-items: center;">
+        <img width="16" style="margin-right: 4px;" src="https://www.electronjs.org/zh/assets/img/favicon.ico" />
         <a href="https://github.com/peizhongli/about-accompany" target="_blank">
           about-accompany
         </a>
