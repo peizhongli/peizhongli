@@ -51,6 +51,19 @@
   <tr>
     <td width="200">
       <div style="display: flex; align-items: center;">
+        <img width="16" style="margin-right: 4px;" src="https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/hx.png" />
+        <a href="https://github.com/peizhongli/lux-caculator" target="_blank">
+          lux-caculator
+        </a>
+      </div>
+    </td>
+    <td>
+      【Uni-app】一个通过手机光感传感器计算lux的app。
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://www.electronjs.org/zh/assets/img/favicon.ico" />
         <a href="https://github.com/peizhongli/about-accompany" target="_blank">
           about-accompany
