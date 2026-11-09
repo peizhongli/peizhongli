@@ -181,7 +181,7 @@
   <tr>
     <td width="200">
       <div style="display: flex; align-items: center;">
-        <img width="16" style="margin-right: 4px;" src="https://www.gstatic.cn/devrel-devsite/prod/v66bc13dc55a89e30844725592b2a3875c41b51489328ec81aa9453f6004c6976/chrome/images/favicon.png" />
+        <img width="16" style="margin-right: 4px;" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" />
         <a href="https://github.com/peizhongli/chrome-utils" target="_blank">
           chrome-utils
         </a>
@@ -189,6 +189,19 @@
     </td>
     <td>
       【Chrome extension】浏览器tab页增加右键菜单实现【清空缓存并进行硬刷新】功能，对当前tab页增加清除本地存储功能。
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
+      <div style="display: flex; align-items: center;">
+        <img width="16" style="margin-right: 4px;" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" />
+        <a href="[https://github.com/peizhongli/network-inspector](https://github.com/peizhongli/network-inspector)" target="_blank">
+          network-inspector
+        </a>
+      </div>
+    </td>
+    <td>
+      【Network-inspector】DevTools Network 面板不够用时的补充：把抓到的请求按 URL / Header / Payload / 响应体 四路检索，标记自定义 Header，折叠查看 JSON，一键复制 cURL / fetch。
     </td>
   </tr>
 </table>
