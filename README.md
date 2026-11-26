@@ -195,7 +195,7 @@
     <td width="200">
       <div style="display: flex; align-items: center;">
         <img width="16" style="margin-right: 4px;" src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" />
-        <a href="[https://github.com/peizhongli/network-inspector](https://github.com/peizhongli/network-inspector)" target="_blank">
+        <a href="https://github.com/peizhongli/network-inspector" target="_blank">
           network-inspector
         </a>
       </div>
